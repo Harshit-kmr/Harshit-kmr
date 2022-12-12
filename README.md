@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Kumar</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
-<img align="right" alt="coding" width="100" src="[![image](https://user-images.githubusercontent.com/87057872/207140236-27f0ef2e-20b3-4231-b1cb-8a7b40f9f5ab.png)](https://img.freepik.com/premium-vector/devops-work-concept-can-use-web-banner-infographics-hero-images-isometric-vector_566886-5175.jpg?w=2000)"
+<img align="right" alt="coding" width="100" src="[![image](https://user-images.githubusercontent.com/87057872/207140236-27f0ef2e-20b3-4231-b1cb-8a7b40f9f5ab.png)](https://img.freepik.com/premium-vector/devops-work-concept-can-use-web-banner-infographics-hero-images-isometric-vector_566886-5175.jpg?w=2000)">
 
 - 🔭 I’m currently working as a **DevOps Engineer**
 
