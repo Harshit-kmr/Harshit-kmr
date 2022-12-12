@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Kumar</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
-<img align="right" alt="coding" width="40" src="![image](https://user-images.githubusercontent.com/87057872/207144299-6e6280fd-9d99-41f4-b5e7-54f3d10b74fa.png)">
+<img align="right" alt="coding" width="200" src="![image](https://user-images.githubusercontent.com/87057872/207144299-6e6280fd-9d99-41f4-b5e7-54f3d10b74fa.png)">
 
 
 - 🔭 I’m currently working as a **DevOps Engineer**
